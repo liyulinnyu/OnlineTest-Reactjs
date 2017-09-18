@@ -12,6 +12,8 @@ Ok, next step you should use "cd"(in Windows) to get to the folder, then input "
 ![image](https://github.com/liyulinnyu/Myimg/blob/master/2017_918_1.png)
 
 
+(1)
+-----
 Without any question, you will see the main page of this project in your browser.
 
 
@@ -34,3 +36,14 @@ from "questionData.json".
 
 
 ![image](https://github.com/liyulinnyu/Myimg/blob/master/2017_918_4.png)
+
+
+(3)
+-----
+After finished all questions, you can click submit button.
+And the program will use "getGrade()" function to check every answer whether it is right or not. And finially it will 
+compute a grade for you. The answer data is in the "answerData.json".
+
+
+![image](https://github.com/liyulinnyu/Myimg/blob/master/2017_918_5.png)
+
