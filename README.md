@@ -36,6 +36,7 @@ from "questionData.json".
 
 
 ![image](https://github.com/liyulinnyu/Myimg/blob/master/2017_918_4.png)
+![image](https://github.com/liyulinnyu/Myimg/blob/master/2017_918_6.png)
 
 
 (3)
@@ -46,4 +47,15 @@ compute a grade for you. The answer data is in the "answerData.json".
 
 
 ![image](https://github.com/liyulinnyu/Myimg/blob/master/2017_918_5.png)
+
+
+All files you may use
+------
+? App.js: The main page contains most Reactjs codes
+? App.css: Style layout
+? questionData: Contains question
+? userData: Users information
+? answerData: All answers for questions
+
+The project is easy to extend and to give an online test to student.
 
