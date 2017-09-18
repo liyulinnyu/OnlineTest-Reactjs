@@ -14,8 +14,8 @@ Without any question, you will see the main page of this project in your browser
 
 ![image](https://github.com/liyulinnyu/Myimg/blob/master/2017_918_3.png)
 
-In the login page, I use Ajax of JQuery to get the data from "userData.json" file. So you should input the right name<br />
-and password to login. I will show your all the files below, you can also search the content of "userData.json" in your<br /> 
+In the login page, I use Ajax of JQuery to get the data from "userData.json" file. So you should input the right name
+and password to login. I will show your all the files below, you can also search the content of "userData.json" in your
 downloaded folder.
 
 ![image](https://github.com/liyulinnyu/Myimg/blob/master/2017_918_2.png)
