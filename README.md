@@ -51,11 +51,12 @@ compute a grade for you. The answer data is in the "answerData.json".
 
 All files you may use
 ------
-? App.js: The main page contains most Reactjs codes
-? App.css: Style layout
-? questionData: Contains question
-? userData: Users information
-? answerData: All answers for questions
+1. App.js: The main page contains most Reactjs codes
+2. App.css: Style layout
+3. questionData: Contains question
+4. userData: Users information
+5. answerData: All answers for questions
 
 The project is easy to extend and to give an online test to student.
+-----
 
