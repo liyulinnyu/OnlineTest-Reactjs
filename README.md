@@ -26,7 +26,8 @@ downloaded folder.
 ![image](https://github.com/liyulinnyu/Myimg/blob/master/2017_918_2.png)
 
 
-#(2)
+(2)
+-----
 If you have logined in, you can see the main page which contains several questions, and I also use Ajax to get the data
 from "questionData.json".
 
