@@ -1,0 +1,98 @@
+.App {
+  top:0;
+  text-align: center;
+}
+.App-header {
+  background-color: #8234aa;
+  height: 50px;
+  padding: 20px;
+  line-height: 50px;
+  color: white;
+  font-size: 2em;
+}
+
+.spandiv{
+  display: block;
+  font-size: 1.6em;
+  color:#222;
+  margin-top:50px;
+}
+
+#userform input[type="text"], input[type="password"]{
+  box-sizing: border-box;
+  padding: 4px;
+  width: 300px;
+  height: 40px;
+  border-radius: 5px;
+  border:1px solid #ccc;
+  margin-bottom: 20px;
+}
+
+#userform input[type="submit"]{
+  width: 300px;
+  height: 40px;
+  border-radius: 5px;
+  border:1px solid #8234aa;
+  background: #8234aa;
+  color:#fff;
+}
+
+#userform input[type="submit"]:hover{
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.questiondiv{
+  margin-left: 20%;
+  text-align: left;
+}
+
+.questiondiv>form>div{
+  margin-top:50px; 
+  font-size: 1.2em;
+}
+
+.questiondiv>form label{
+  font-size: 1.4em;
+}
+
+.questiondiv>form input[type="radio"]{
+  margin-top: 15px;
+  width:15px;
+  height:15px;
+  cursor: pointer;
+}
+
+.questiondiv>form span{
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.questiondiv>form input[type="submit"]{
+  width: 300px;
+  height: 40px;
+  border-radius: 5px;
+  border:1px solid #8234aa;
+  background: #8234aa;
+  color:#fff;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.questiondiv>form input[type="submit"]:hover{
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.App-body{
+  padding-bottom:100px;
+}
+
+footer {
+  position:absolute;
+  bottom:0;
+  width: 100%;
+  height:50px;
+  background: #8234aa;
+  margin-top: -50px;
+}
